@@ -8,7 +8,7 @@ They are built over there (make -j4 svgs) and that clips them (rounds them).
 
 They are then optimized with scour as follows and placed in src/:
 
-scour -i file.svg -o newfile.svg --enable-viewboxing --enable-id-stripping --enable-comment-stripping --shorten-ids --indent=none; done;
+scour -i file.svg -o newfile.svg --enable-viewboxing --enable-id-stripping --enable-comment-stripping --shorten-ids --indent=none
 
 BUILD PROCESS
 -------------
