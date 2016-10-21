@@ -8,7 +8,9 @@ They are built over there (make -j4 svgs) and that clips them (rounds them).
 
 They are then optimized with scour as follows and placed in src/:
 
+```
 scour -i file.svg -o newfile.svg --enable-viewboxing --enable-id-stripping --enable-comment-stripping --shorten-ids --indent=none
+```
 
 BUILD PROCESS
 -------------
@@ -27,9 +29,11 @@ The finalized set is part of the source package so requirements are only necessa
 
 In Linux Mint you can install them as follows:
 
+```
 apt install python-scour python-wheel python-wheel-common python3-wheel python-pip libxml2-dev libxslt-dev
 
 pip install svgutils --user
+```
 
 LICENSING
 ---------
