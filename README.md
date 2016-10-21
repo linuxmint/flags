@@ -30,3 +30,12 @@ In Linux Mint you can install them as follows:
 apt install python-scour python-wheel python-wheel-common python3-wheel python-pip libxml2-dev libxslt-dev
 
 pip install svgutils --user
+
+LICENSING
+---------
+
+In the original collection the flags are Public Domain.
+
+The modified versions in this project, as well as the new images (such as back and fore layers) are licensed under CC-BY-SA and copyright Linux Mint.
+
+All scripts and eventual source code are licensed under the GNU GPLv3.
