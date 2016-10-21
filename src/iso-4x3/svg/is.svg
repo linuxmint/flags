@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 960">
+<defs>
+<clipPath id="a" clipPathUnits="userSpaceOnUse">
+<rect rx="67" ry="67" height="745" width="1065" y="107" x="107"/>
+</clipPath>
+</defs>
+<g>
+<image xlink:href="back.png" height="960" width="1280" y="0" x="0"/>
+</g>
+<g clip-path="url(#a)" height="745" width="1065" y="107" x="107">
+<g transform="translate(106,75) scale(1.667)" height="960" width="1280" y="75" x="106">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" height="480" width="640" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<defs>
+<clipPath id="b" clipPathUnits="userSpaceOnUse">
+<rect fill-opacity="0.67" height="480" width="640" y="0" x="0"/>
+</clipPath>
+</defs>
+<g fill-rule="evenodd" stroke-width="0pt" clip-path="url(#b)">
+<rect height="480" width="666.67" y="0" x="0" fill="#003897"/>
+<path fill-cmyk="(0 0 0 0)" d="m0 186.67h186.67v-186.67h106.67v186.67h373.33v106.67h-373.33v186.67h-106.67v-186.67h-186.67v-106.67z" fill="#fff"/>
+<path d="m0 213.33h213.33v-213.33h53.333v213.33h400v53.333h-400v213.33h-53.333v-213.33h-213.33v-53.333z" fill="#d72828"/>
+</g>
+</svg>
+</g>
+</g>
+<g>
+<image xlink:href="fore.png" height="960" width="1280" y="0" x="0"/>
+</g>
+</svg>

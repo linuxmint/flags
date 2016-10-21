@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 960">
+<defs>
+<clipPath id="a" clipPathUnits="userSpaceOnUse">
+<rect rx="67" ry="67" height="745" width="1065" y="107" x="107"/>
+</clipPath>
+</defs>
+<g>
+<image xlink:href="back.png" height="960" width="1280" y="0" x="0"/>
+</g>
+<g clip-path="url(#a)" height="745" width="1065" y="107" x="107">
+<g transform="translate(106,75) scale(1.667)" height="960" width="1280" y="75" x="106">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" height="480" width="640" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g stroke-width="1pt" fill-rule="evenodd">
+<rect height="480" width="640" y="0" x="0" fill="#f30"/>
+<path d="m243.69 272.08-74.944-53.515-74.577 54.041 27.737-87.819-74.44-54.228 92.096-0.75607 28.565-87.552 29.177 87.351 92.096 0.11521-74.058 54.739 28.349 87.624z" fill="#ff0"/>
+<path d="m422.65 82.658-14.894-20.764-24.425 7.5182 15.146-20.583-14.698-20.906 24.257 8.0453 15.34-20.439-0.15576 25.554 24.179 8.2741-24.351 7.748-0.39774 25.552z" fill="#ff0"/>
+<path d="m361.65 461.38-16.99-19.087-23.501 10.04 12.903-22.058-16.81-19.249 24.967 5.4556 13.11-21.935 2.5266 25.43 24.913 5.6913-23.404 10.26 2.2857 25.453z" fill="#ff0"/>
+<path d="m481.18 216.34-8.2748-24.177-25.556 0.15691 20.437-15.342-8.046-24.256 20.907 14.697 20.581-15.148-7.5168 24.425 20.767 14.894-25.551 0.39825-7.7478 24.353z" fill="#ff0"/>
+<path d="m477.63 339.56-20.9-14.703-20.588 15.141 7.5245-24.422-20.762-14.901 25.553-0.38997 7.7548-24.35 8.2668 24.181 25.555-0.14821-20.442 15.334 8.0376 24.258z" fill="#ff0"/>
+</g>
+</svg>
+</g>
+</g>
+<g>
+<image xlink:href="fore.png" height="960" width="1280" y="0" x="0"/>
+</g>
+</svg>

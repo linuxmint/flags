@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 960">
+<defs>
+<clipPath id="a" clipPathUnits="userSpaceOnUse">
+<rect rx="67" ry="67" height="745" width="1065" y="107" x="107"/>
+</clipPath>
+</defs>
+<g>
+<image xlink:href="back.png" height="960" width="1280" y="0" x="0"/>
+</g>
+<g clip-path="url(#a)" height="745" width="1065" y="107" x="107">
+<g transform="translate(106,75) scale(1.667)" height="960" width="1280" y="75" x="106">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" height="480" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<rect fill-rule="evenodd" height="480" width="640" y="2.5925e-15" x="0" stroke-width="1pt" fill="#f31930"/>
+<g transform="matrix(.9375 0 0 .9375 132.01 7.2462)">
+<path d="m393.35 220.64" stroke="#000" stroke-width=".77658pt" fill="none"/>
+<path d="m178.37 445.64c0 100.69-81.622 182.31-182.31 182.31s-182.31-81.622-182.31-182.31 81.622-182.31 182.31-182.31 182.31 81.622 182.31 182.31z" fill-rule="evenodd" transform="matrix(.71362 0 0 .70145 166.01 -56.352)" fill="#fff"/>
+<path d="m-15.739 157.09c0 44.186-35.82 80.006-80.006 80.006s-80.006-35.82-80.006-80.006 35.82-80.006 80.006-80.006 80.006 35.82 80.006 80.006z" fill-rule="evenodd" transform="matrix(1.3009 0 0 1.2787 320.28 55.365)" fill="#f31830"/>
+<path d="m318.63 196.5-1.0501 47.273-44.103 11.973 43.473 15.482-1.0501 43.351 28.352-33.854 42.842 14.863-24.782-36.332 30.242-36.125-46.413 12.798-27.512-39.428z" fill-rule="evenodd" stroke-width="1pt" fill="#fff"/>
+</g>
+</svg>
+</g>
+</g>
+<g>
+<image xlink:href="fore.png" height="960" width="1280" y="0" x="0"/>
+</g>
+</svg>
