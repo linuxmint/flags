@@ -22,6 +22,8 @@ for flag_set in FLAG_SETS:
         destination = "flags/%s-svg/%s" % (flag_set, file)
         figure.save(destination)
 
+        tmp = "flags/%s-svg/tmp.svg" % (flag_set)
+
         # compress
-        os.system("scour -i %s -o %sz --enable-viewboxing --enable-id-stripping --enable-comment-stripping --shorten-ids --indent=none" % (destination, destination))
-        os.unlink(destination)
+        os.system("scour -i %s -o %s --enable-viewboxing --enable-id-stripping --enable-comment-stripping --shorten-ids --indent=none" % (destination, tmp))
+        os.rename(tmp, destination)
