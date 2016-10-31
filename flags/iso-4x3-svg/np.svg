@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 960" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 0 1280.0px 960.0px">
+<defs xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+<filter id="d" style="color-interpolation-filters:sRGB" height="1.14" width="1.0979" y="-.069990" x="-.048937">
+<feGaussianBlur stdDeviation="21.6452"/>
+</filter>
+</defs>
+<metadata xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:title/>
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="745" width="1065" y="107" x="107">
+<g opacity=".74438" transform="translate(-36.847 .94915)" filter="url(#d)">
+<g height="745" width="1065" y="107" x="107">
+<rect opacity=".978" stroke-linejoin="round" ry="68.009" height="742.22" width="1061.5" stroke="#000" y="107.87" x="147.87" stroke-width="2.2345"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="g" clipPathUnits="userSpaceOnUse">
+<rect rx="67" ry="67" height="745" width="1065" y="107" x="107"/>
+</clipPath>
+</defs>
+<image y="0" width="1280" xlink:href="back.png" x="0" height="960"/>
+<g y="107" width="1065" height="745" x="107" clip-path="url(#g)">
+<g y="75" width="1280" x="106" transform="translate(106,75) scale(1.667)" height="960">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<defs>
+<clipPath id="f" clipPathUnits="userSpaceOnUse">
+<rect y="-15.957" width="512" height="512" x="0" fill-opacity=".67"/>
+</clipPath>
+</defs>
+<rect y="0" width="640" fill="#fff" x="0" height="480"/>
+<g transform="matrix(.9375 0 0 .9375 0 14.96)" clip-path="url(#f)">
+<g transform="matrix(1.0432 0 0 1.0432 -.0024051 -21.45)" fill-rule="evenodd">
+<path stroke="#000063" stroke-width="13.26" d="m6.2712 489.83 363.1-0.01-237.66-241.01 246.61 0.29-372.03-237.62-0.0188 478.35z" fill="#ce0000"/>
+<polygon stroke-width="1pt" transform="matrix(1.2301 0 0 1.1997 -192.06 -266.1)" points="296.98 523.24 275.95 530.38 292.4 546.25 270.24 544.79 279.37 565.75 259.46 555.93 259.87 578.78 245.23 562.08 236.86 583.36 229.73 562.33 213.86 578.78 215.31 556.62 194.36 565.75 204.18 545.84 181.32 546.25 198.02 531.61 176.75 523.24 197.78 516.11 181.32 500.24 203.48 501.69 194.36 480.74 214.27 490.56 213.86 467.7 228.5 484.4 236.86 463.13 244 484.16 259.87 467.7 258.41 489.86 279.37 480.74 269.55 500.65 292.4 500.24 275.7 514.88" d="m 296.97868,523.24292 -21.02922,7.1358 16.4532,15.86944 -22.15922,-1.45491 9.1278,20.95781 -19.91568,-9.82413 0.41278,22.85555 -14.64016,-16.69771 -8.36508,21.27374 -7.1358,-21.02923 -15.86944,16.4532 1.45491,-22.15922 -20.95781,9.1278 9.82413,-19.91568 -22.85555,0.41278 16.69771,-14.64016 -21.27374,-8.36508 21.02922,-7.1358 -16.45319,-15.86944 22.15922,1.45491 -9.1278,-20.95781 19.91568,9.82413 -0.41278,-22.85555 14.64016,16.69771 8.36508,-21.27374 7.1358,21.02923 15.86944,-16.4532 -1.45492,22.15922 20.95782,-9.1278 -9.82413,19.91568 22.85555,-0.41278 -16.69772,14.64016 z" fill="#fff"/>
+<path stroke-width="1pt" d="m142.18 184.6-10.861 8.04 5.353 4.423c13-10.048 22.25-19.231 29.48-34.471 1.695 20.342-16.951 66.004-65.884 66.508-52.371-0.044-70.543-48.492-68.522-67.366 9.621 17.455 15.492 25.966 30.594 35.054l4.6206-4.241-10.229-8.523 13.168-3.424-7.0846-11.924 13.796 1.005-1.7336-13.885 12.094 7.077 3.784-12.926 8.6895 10.411 8.1403-9.87 4.432 13.411 11.301-7.864-1.449 13.639 13.548-1.59-6.351 12.608 13.115 3.908z" fill="#fff"/>
+</g>
+</g>
+</svg>
+</g>
+</g>
+<image y="0" width="1280" xlink:href="fore.png" x="0" height="960"/>
+<defs xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+<clipPath id="e" clipPathUnits="userSpaceOnUse">
+<rect rx="67" ry="67" height="745" width="1065" y="107" x="107"/>
+</clipPath>
+<linearGradient id="c" y2="271.72" gradientUnits="userSpaceOnUse" x2="334.98" y1="-224.86" x1="10.981">
+<stop stop-color="#fff" offset="0"/>
+<stop stop-color="#fff" stop-opacity="0" offset="1"/>
+</linearGradient>
+</defs>
+<g xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" clip-path="url(#e)" height="745" width="1065" y="107" x="107" xmlns:cc="http://creativecommons.org/ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<g transform="translate(106,75) scale(1.667)" height="960" width="1280" y="75" x="106">
+<svg height="480" width="640" version="1" y="0" x="0">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<rect fill-rule="evenodd" height="480" width="640" y="0" x="0" stroke-width="1pt" fill="url(#c)"/>
+</svg>
+</g>
+</g>
+</svg>

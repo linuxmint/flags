@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 960" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 0 1280.0px 960.0px">
+<defs xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+<filter id="d" style="color-interpolation-filters:sRGB" height="1.14" width="1.0979" y="-.069990" x="-.048937">
+<feGaussianBlur stdDeviation="21.6452"/>
+</filter>
+</defs>
+<metadata xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:title/>
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="745" width="1065" y="107" x="107">
+<g opacity=".74438" transform="translate(-36.847 .94915)" filter="url(#d)">
+<g height="745" width="1065" y="107" x="107">
+<rect opacity=".978" stroke-linejoin="round" ry="68.009" height="742.22" width="1061.5" stroke="#000" y="107.87" x="147.87" stroke-width="2.2345"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="g" clipPathUnits="userSpaceOnUse">
+<rect rx="67" ry="67" height="745" width="1065" y="107" x="107"/>
+</clipPath>
+</defs>
+<image y="0" width="1280" xlink:href="back.png" x="0" height="960"/>
+<g y="107" width="1065" height="745" x="107" clip-path="url(#g)">
+<g y="75" width="1280" x="106" transform="translate(106,75) scale(1.667)" height="960">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" height="480" width="640" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<defs>
+<clipPath id="f" clipPathUnits="userSpaceOnUse">
+<rect y="0" width="682.67" height="512" x="-87.62" fill-opacity=".67"/>
+</clipPath>
+</defs>
+<g fill-rule="evenodd" transform="matrix(.9375 0 0 .9375 82.144 0)" clip-path="url(#f)">
+<rect transform="scale(-1)" height="512" width="731.43" y="-512" x="-619.43" fill="#fff"/>
+<rect transform="scale(-1)" height="67.227" width="731.43" y="-115.23" x="-619.43" fill="#00c"/>
+<rect transform="scale(-1)" height="67.227" width="731.43" y="-465.68" x="-619.43" fill="#00c"/>
+<path stroke-width=".96961pt" d="m136.43 190.78 110.12 191.54 112.49-190.75-222.61-0.79z" fill="#00c"/>
+<path stroke-width=".96961pt" d="m225.75 317.81 20.95 35.506 21.4-35.36-42.351-0.14535z" fill="#fff"/>
+<path stroke-width=".96961pt" d="m136.02 320.58 110.13-191.54 112.48 190.75-222.61 0.79z" fill="#00c"/>
+<path stroke-width=".96961pt" d="m225.75 191.61 20.95-35.506 21.4 35.36-42.351 0.14534z" fill="#fff"/>
+<path stroke-width=".96961pt" d="m181.97 271.11-21.64 35.982 40.899-0.12727-19.258-35.855z" fill="#fff"/>
+<path stroke-width=".96961pt" d="m160.7 204.61 41.225 0.28926-19.834 36.262-21.391-36.551z" fill="#fff"/>
+<path stroke-width=".96961pt" d="m311.94 271.52 20.829 35.576-41.71-0.53294 20.881-35.043z" fill="#fff"/>
+<path stroke-width=".96961pt" d="m332.39 204.61-41.225 0.28926 19.834 36.262 21.391-36.551z" fill="#fff"/>
+<path stroke-width="1pt" d="m218.12 204.57-28.394 51.515 28.799 50.297 52.731 1.217 32.044-51.514-29.611-51.92-55.571 0.40495z" fill="#fff"/>
+</g>
+</svg>
+</g>
+</g>
+<image y="0" width="1280" xlink:href="fore.png" x="0" height="960"/>
+<defs xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+<clipPath id="e" clipPathUnits="userSpaceOnUse">
+<rect rx="67" ry="67" height="745" width="1065" y="107" x="107"/>
+</clipPath>
+<linearGradient id="c" y2="271.72" gradientUnits="userSpaceOnUse" x2="334.98" y1="-224.86" x1="10.981">
+<stop stop-color="#fff" offset="0"/>
+<stop stop-color="#fff" stop-opacity="0" offset="1"/>
+</linearGradient>
+</defs>
+<g xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" clip-path="url(#e)" height="745" width="1065" y="107" x="107" xmlns:cc="http://creativecommons.org/ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<g transform="translate(106,75) scale(1.667)" height="960" width="1280" y="75" x="106">
+<svg height="480" width="640" version="1" y="0" x="0">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<rect fill-rule="evenodd" height="480" width="640" y="0" x="0" stroke-width="1pt" fill="url(#c)"/>
+</svg>
+</g>
+</g>
+</svg>

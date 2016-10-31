@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 960" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 0 1280.0px 960.0px">
+<defs xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+<filter id="t" style="color-interpolation-filters:sRGB" height="1.14" width="1.0979" y="-.069990" x="-.048937">
+<feGaussianBlur stdDeviation="21.6452"/>
+</filter>
+</defs>
+<metadata xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:title/>
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="745" width="1065" y="107" x="107">
+<g opacity=".74438" transform="translate(-36.847 .94915)" filter="url(#t)">
+<g height="745" width="1065" y="107" x="107">
+<rect opacity=".978" stroke-linejoin="round" ry="68.009" height="742.22" width="1061.5" stroke="#000" y="107.87" x="147.87" stroke-width="2.2345"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="o" clipPathUnits="userSpaceOnUse">
+<rect rx="67" ry="67" height="745" width="1065" y="107" x="107"/>
+</clipPath>
+</defs>
+<image y="0" width="1280" xlink:href="back.png" x="0" height="960"/>
+<g y="107" width="1065" height="745" x="107" clip-path="url(#o)">
+<g y="75" width="1280" x="106" transform="translate(106,75) scale(1.667)" height="960">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<desc>The United States of America flag, produced by Daniel McRae</desc>
+<defs>
+<circle id="h" stroke="#013ba6" stroke-width="39.03" r="145.66" fill="none"/>
+<circle id="m" stroke="#fff" stroke-width="17.347" r="145.66" fill="none"/>
+<clipPath id="v">
+<path d="m0-200v400h200v-400zm-200 0v400h100v-400z"/>
+</clipPath>
+<clipPath id="p">
+<path d="m-200-200h400v250h-400z"/>
+</clipPath>
+<clipPath id="q">
+<path d="m0 0-200-150v300z"/>
+</clipPath>
+<clipPath id="r">
+<path d="m0 0-200-200v400z"/>
+</clipPath>
+<clipPath id="s">
+<path d="m0 0-50-200h-150v350z"/>
+</clipPath>
+<clipPath id="u">
+<path d="m0 0v-200h-200v400z"/>
+</clipPath>
+</defs>
+<g transform="matrix(.53333 0 0 .6 320 240)">
+<rect y="-400" width="1200" fill="#013ba6" x="-600" height="800"/>
+<g id="a" transform="translate(145.66)">
+<use clip-path="url(#v)" xlink:href="#h" height="100%" width="100%" y="0" x="0"/>
+<use y="0" width="100%" xlink:href="#m" x="0" height="100%"/>
+</g>
+<use xlink:href="#a" transform="rotate(-60.001)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#a" transform="rotate(60.001)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#a" transform="rotate(120)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#a" transform="scale(-1)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#a" transform="rotate(240)" height="100%" width="100%" y="0" x="0"/>
+<use clip-path="url(#p)" xlink:href="#h" height="100%" width="100%" y="0" x="0"/>
+<use y="0" width="100%" xlink:href="#m" x="0" height="100%"/>
+<g transform="translate(145.66)">
+<use clip-path="url(#q)" xlink:href="#h" height="100%" width="100%" y="0" x="0"/>
+<use clip-path="url(#r)" xlink:href="#m" height="100%" width="100%" y="0" x="0"/>
+</g>
+<g id="w" transform="matrix(-.5 .86603 -.86603 -.5 -72.832 126.15)">
+<use clip-path="url(#s)" xlink:href="#h" height="100%" width="100%" y="0" x="0"/>
+<use clip-path="url(#u)" xlink:href="#m" height="100%" width="100%" y="0" x="0"/>
+</g>
+<use xlink:href="#w" transform="scale(-1,1)" height="100%" width="100%" y="0" x="0"/>
+</g>
+</svg>
+</g>
+</g>
+<image y="0" width="1280" xlink:href="fore.png" x="0" height="960"/>
+<defs xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+<clipPath id="x" clipPathUnits="userSpaceOnUse">
+<rect rx="67" ry="67" height="745" width="1065" y="107" x="107"/>
+</clipPath>
+<linearGradient id="n" y2="271.72" gradientUnits="userSpaceOnUse" x2="334.98" y1="-224.86" x1="10.981">
+<stop stop-color="#fff" offset="0"/>
+<stop stop-color="#fff" stop-opacity="0" offset="1"/>
+</linearGradient>
+</defs>
+<g xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" clip-path="url(#x)" height="745" width="1065" y="107" x="107" xmlns:cc="http://creativecommons.org/ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<g transform="translate(106,75) scale(1.667)" height="960" width="1280" y="75" x="106">
+<svg height="480" width="640" version="1" y="0" x="0">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<rect fill-rule="evenodd" height="480" width="640" y="0" x="0" stroke-width="1pt" fill="url(#n)"/>
+</svg>
+</g>
+</g>
+</svg>

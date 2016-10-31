@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 960" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 0 1280.0px 960.0px">
+<defs xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+<filter id="d" style="color-interpolation-filters:sRGB" height="1.14" width="1.0979" y="-.069990" x="-.048937">
+<feGaussianBlur stdDeviation="21.6452"/>
+</filter>
+</defs>
+<metadata xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:title/>
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="745" width="1065" y="107" x="107">
+<g opacity=".74438" transform="translate(-36.847 .94915)" filter="url(#d)">
+<g height="745" width="1065" y="107" x="107">
+<rect opacity=".978" stroke-linejoin="round" ry="68.009" height="742.22" width="1061.5" stroke="#000" y="107.87" x="147.87" stroke-width="2.2345"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="g" clipPathUnits="userSpaceOnUse">
+<rect rx="67" ry="67" height="745" width="1065" y="107" x="107"/>
+</clipPath>
+</defs>
+<image y="0" width="1280" xlink:href="back.png" x="0" height="960"/>
+<g y="107" width="1065" height="745" x="107" clip-path="url(#g)">
+<g y="75" width="1280" x="106" transform="translate(106,75) scale(1.667)" height="960">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<desc>The United States of America flag, produced by Daniel McRae</desc>
+<defs>
+<clipPath id="f" clipPathUnits="userSpaceOnUse">
+<rect y="-.0000096671" width="682.67" height="512" x="-123.43" fill-opacity=".67"/>
+</clipPath>
+</defs>
+<g clip-path="url(#f)" transform="matrix(.93750 0 0 .93750 115.72 .0000090629)" fill-rule="evenodd">
+<rect height="205.97" width="846.53" y="233.05" x="-123.43" stroke-width="1pt" fill="#fff"/>
+<rect height="256.64" width="845.95" y="-.0000095367" x="-122.76" stroke-width="1pt" fill="#081873"/>
+<rect height="126.13" width="852.12" y="385.87" x="-122.52" stroke-width="1pt" fill="#081873"/>
+<rect height="39.649" width="845.95" y="302.55" x="-122.52" stroke-width="1pt" fill="#de3929"/>
+<polygon d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" stroke-width=".125" points="0 -4.004 0.89895 -1.2373 3.808 -1.2373 1.4545 0.47261 2.3535 3.2393 0 1.5294 -2.3535 3.2393 -1.4545 0.47261 -3.808 -1.2373 -0.89895 -1.2373" transform="matrix(7.398 0 0 7.3981 130.92 428.79)" fill="#ffce08"/>
+<polygon d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" stroke-width=".125" points="0 -4.004 0.89895 -1.2373 3.808 -1.2373 1.4545 0.47261 2.3535 3.2393 0 1.5294 -2.3535 3.2393 -1.4545 0.47261 -3.808 -1.2373 -0.89895 -1.2373" transform="matrix(7.398 0 0 7.3981 316.91 280.12)" fill="#ffce08"/>
+<polygon d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" stroke-width=".125" points="0 -4.004 0.89895 -1.2373 3.808 -1.2373 1.4545 0.47261 2.3535 3.2393 0 1.5294 -2.3535 3.2393 -1.4545 0.47261 -3.808 -1.2373 -0.89895 -1.2373" transform="matrix(7.398 0 0 7.3981 88.271 365.07)" fill="#ffce08"/>
+<polygon d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" stroke-width=".125" points="0 -4.004 0.89895 -1.2373 3.808 -1.2373 1.4545 0.47261 2.3535 3.2393 0 1.5294 -2.3535 3.2393 -1.4545 0.47261 -3.808 -1.2373 -0.89895 -1.2373" transform="matrix(7.398 0 0 7.3981 316.91 359.08)" fill="#ffce08"/>
+<polygon d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" stroke-width=".125" points="0 -4.004 0.89895 -1.2373 3.808 -1.2373 1.4545 0.47261 2.3535 3.2393 0 1.5294 -2.3535 3.2393 -1.4545 0.47261 -3.808 -1.2373 -0.89895 -1.2373" transform="matrix(7.398 0 0 7.3981 269.82 217.8)" fill="#ffce08"/>
+<polygon d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" stroke-width=".125" points="0 -4.004 0.89895 -1.2373 3.808 -1.2373 1.4545 0.47261 2.3535 3.2393 0 1.5294 -2.3535 3.2393 -1.4545 0.47261 -3.808 -1.2373 -0.89895 -1.2373" transform="matrix(7.398 0 0 7.3981 198.74 193.05)" fill="#ffce08"/>
+<polygon d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" stroke-width=".125" points="0 -4.004 0.89895 -1.2373 3.808 -1.2373 1.4545 0.47261 2.3535 3.2393 0 1.5294 -2.3535 3.2393 -1.4545 0.47261 -3.808 -1.2373 -0.89895 -1.2373" transform="matrix(7.398 0 0 7.3981 127.65 216.41)" fill="#ffce08"/>
+<polygon d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" stroke-width=".125" points="0 -4.004 0.89895 -1.2373 3.808 -1.2373 1.4545 0.47261 2.3535 3.2393 0 1.5294 -2.3535 3.2393 -1.4545 0.47261 -3.808 -1.2373 -0.89895 -1.2373" transform="matrix(7.398 0 0 7.3981 86.184 280.12)" fill="#ffce08"/>
+<polygon d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" stroke-width=".125" points="0 -4.004 0.89895 -1.2373 3.808 -1.2373 1.4545 0.47261 2.3535 3.2393 0 1.5294 -2.3535 3.2393 -1.4545 0.47261 -3.808 -1.2373 -0.89895 -1.2373" transform="matrix(7.398 0 0 7.3981 198.74 450.03)" fill="#ffce08"/>
+<polygon d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" stroke-width=".125" points="0 -4.004 0.89895 -1.2373 3.808 -1.2373 1.4545 0.47261 2.3535 3.2393 0 1.5294 -2.3535 3.2393 -1.4545 0.47261 -3.808 -1.2373 -0.89895 -1.2373" transform="matrix(7.398 0 0 7.3981 274.26 428.79)" fill="#ffce08"/>
+</g>
+</svg>
+</g>
+</g>
+<image y="0" width="1280" xlink:href="fore.png" x="0" height="960"/>
+<defs xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+<clipPath id="e" clipPathUnits="userSpaceOnUse">
+<rect rx="67" ry="67" height="745" width="1065" y="107" x="107"/>
+</clipPath>
+<linearGradient id="c" y2="271.72" gradientUnits="userSpaceOnUse" x2="334.98" y1="-224.86" x1="10.981">
+<stop stop-color="#fff" offset="0"/>
+<stop stop-color="#fff" stop-opacity="0" offset="1"/>
+</linearGradient>
+</defs>
+<g xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" clip-path="url(#e)" height="745" width="1065" y="107" x="107" xmlns:cc="http://creativecommons.org/ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<g transform="translate(106,75) scale(1.667)" height="960" width="1280" y="75" x="106">
+<svg height="480" width="640" version="1" y="0" x="0">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<rect fill-rule="evenodd" height="480" width="640" y="0" x="0" stroke-width="1pt" fill="url(#c)"/>
+</svg>
+</g>
+</g>
+</svg>
