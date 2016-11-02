@@ -22,7 +22,6 @@ License: GPL-2.0+
  On Debian GNU/Linux systems, the complete text of the GNU General Public
  License version 2 can be found in '/usr/share/common-licenses/GPL-2'.
 
-Files: *.svg
+Files: *.png
 Copyright: 2016 Linux Mint <root@linuxmint.com>
-License: CC-BY-SA
- https://creativecommons.org/licenses/by-sa/4.0/.
+License: Public Domain.

@@ -5,7 +5,7 @@ Maintainer: Linux Mint <root@linuxmint.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.5
 
-Package: flags-iso-4x3-svg
+Package: iso-flag-png
 Architecture: all
-Description: A 4x3 flag collection in SVG format
- A 4x3 flag collection in SVG format.
+Description: ISO country flags in PNG format
+ A 4x3 flag collection in PNG format.
