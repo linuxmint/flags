@@ -2,7 +2,7 @@
 SOURCE FLAGS
 ------------
 
-These flags originate from https://github.com/linuxmint/iso-country-flags-svg-collection.
+These flags originate from https://github.com/joielechong/iso-country-flags-svg-collection.
 
 They correspond to the fancy 4x3 set in 320x200 resolution.
 
