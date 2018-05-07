@@ -1,3 +1,10 @@
+flags (1.0.2) tara; urgency=medium
+
+  * Update README
+  * Update flags
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 07 May 2018 15:21:11 +0100
+
 flags (1.0.1) serena; urgency=medium
 
   * First release version
