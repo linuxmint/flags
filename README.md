@@ -4,7 +4,7 @@ SOURCE FLAGS
 
 These flags originate from https://github.com/joielechong/iso-country-flags-svg-collection.
 
-They correspond to the fancy 4x3 set in 320x200 resolution.
+They correspond to the fancy set in 320x240 resolution ("make png-country-320x240-fancy")
 
 LICENSING
 ---------
