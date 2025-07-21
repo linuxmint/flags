@@ -1,3 +1,10 @@
+flags (1.0.4) zara; urgency=medium
+
+  [ Michael Webster ]
+  * Update iq, se and ua flags.
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 21 Jul 2025 14:36:08 +0200
+
 flags (1.0.3) xia; urgency=medium
 
   * Update syrian flag
